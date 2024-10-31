@@ -1,5 +1,5 @@
-# RAG LangChain
-A production-ready RAG system built with FastAPI, LangChain, LangServe, LangSmith, Hugging Face, and Qdrant for document processing and intelligent querying.
+# rag-langchain
+A production-ready RAG () system built with FastAPI, LangChain, LangServe, LangSmith, Hugging Face, and Qdrant for document processing and intelligent querying.
 
 
 ## Table of Contents
