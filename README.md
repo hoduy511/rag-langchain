@@ -33,7 +33,7 @@ A production-ready RAG () system built with FastAPI, LangChain, LangServe, LangS
 ## Quick Start
 1. Clone the repository:
 ```bash
-git clone https://github.com/hoduy511/RAG-LangChain.git
+git clone https://github.com/hoduy511/rag-langchain.git
 cd RAG-LangChain
 ```
 
