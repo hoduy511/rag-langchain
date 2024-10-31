@@ -1,0 +1,14 @@
+langchain-community==0.3.3
+langchain-huggingface==0.1.0
+langchain-qdrant==0.1.4
+langserve==0.3.0
+fastapi==0.115.3
+uvicorn==0.32.0
+autopep8==2.3.1
+flake8==7.1.1
+isort==5.13.2
+pytest==8.3.3
+pytest-asyncio==0.24.0
+pypdf==5.0.1
+python-multipart==0.0.12
+sse-starlette==2.1.3

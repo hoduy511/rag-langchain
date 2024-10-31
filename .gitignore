@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Environment variables
+.env
+
+# Pytest
+.cache
+*.cover
+*.log
+*.xml
+*.html
+*.json
+*.sqlite
+
+# Virtual environment
+.venv/
+venv/
+
+# Qdrant volume
+.data/
