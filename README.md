@@ -34,7 +34,7 @@ A production-ready RAG (Retrieval Augmented Generation) system built with FastAP
 1. Clone the repository:
 ```bash
 git clone https://github.com/hoduy511/rag-langchain.git
-cd RAG-LangChain
+cd rag-langchain
 ```
 
 2. Create and configure your .env file with required variables:
